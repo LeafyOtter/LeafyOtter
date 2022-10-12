@@ -2,7 +2,7 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1> Hello Fellow < Developers/ >!</h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=LeafyOtter.LeafyOtter)
@@ -19,8 +19,6 @@
 - 🔭 I’m currently working on ft_transcendence. The final project of the common core of 42 School.
 
 - 🌱 I’m currently learning Assembly, NestJS, React 
-
-- 👯 I’m looking to collaborate on  
 
 - 💬 Talk to me about Linux, Libre and Open Source 
 
